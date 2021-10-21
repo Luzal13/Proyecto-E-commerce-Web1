@@ -1,2 +1,2 @@
 # Proyecto-E-commerce-Web1
-Trabajo realizado para E-commerce
+Trabajo realizado en equipo para E-commerce
